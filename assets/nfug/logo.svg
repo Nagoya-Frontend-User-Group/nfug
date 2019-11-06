@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000" viewBox="0 0 2000 2000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #55a758;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Square_-_logo" data-name="Square - logo">
+    <path id="logo" class="cls-1" d="M1265.3,711.3v473.75l151.6,151.6V862.819L1758.08,1204l-325.44,325.44L674.558,771.361,1000,445.919,1265.38,711.3h-0.08Zm60.14,925.34L1000,1962.08,734.619,1696.7H734.7V1526.15l-151.6-151.6,151.6-151.6-151.6-151.6v473.83L241.919,1204,567.36,878.558Z" transform="translate(0 -204)"/>
+  </g>
+</svg>
